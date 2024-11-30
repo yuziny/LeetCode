@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [1317-monthly-transactions-i](https://github.com/yuziny/LeetCode/tree/master/1317-monthly-transactions-i) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yuziny/LeetCode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yuziny/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yuziny/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
